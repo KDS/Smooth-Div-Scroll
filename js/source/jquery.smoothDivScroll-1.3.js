@@ -577,6 +577,10 @@
 				// Autoscrolling not set to always and hotspot scrolling enabled.
 				// Regular hot spot scrolling.
 				else if (o.autoScrollingMode !== "always" && o.hotSpotScrolling) {
+
+					///paul: dirty little patch
+					if(!el.data("scrollWrapper")) return;
+
 					// If the scrollable area is shorter than the scroll wrapper, both hotspots
 					// should be hidden
 					if (el.data("scrollableAreaWidth") <= (el.data("scrollWrapper").innerWidth())) {
