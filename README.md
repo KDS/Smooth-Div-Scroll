@@ -1,5 +1,5 @@
 # jQuery Smooth Div Scroll
-Smooth Div Scroll is a jQuery plugin that scrolls content horizontally left or right. You'll find all the documentation you need at [smoothdivscroll.com](http://www.smoothdivscroll.com).
+Smooth Div Scroll is a jQuery plugin that scrolls content horizontally left or right. You'll find all the documentation you need at [smoothdivscroll.com](http://www.smoothdivscroll.com).  
 
 ## Version 1.3 - Release Notes
 The documentation at [smoothdivscroll.com](http://www.smoothdivscroll.com) has now been updated and is valid for Smooth Div Scroll version 1.3. Let me know if there's something that I've missed. If you want to know what has changed between version 1.2 and 1.3 I suggest that you read these release notes though.
