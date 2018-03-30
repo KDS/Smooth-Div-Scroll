@@ -1,0 +1,25 @@
+{
+  "name": "smooth-div-scroll",
+  "version": "1.3.0",
+  "description": "jQuery smooth div scroll",
+  "main": "js/jquery.smoothdivscroll-1.3.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vince-F/Smooth-Div-Scroll.git"
+  },
+  "keywords": [
+    "jquery",
+    "smooth",
+    "div",
+    "scroll"
+  ],
+  "author": "Thomas Kahn",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Vince-F/Smooth-Div-Scroll/issues"
+  },
+  "homepage": "https://github.com/Vince-F/Smooth-Div-Scroll#readme"
+}
