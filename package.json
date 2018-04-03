@@ -2,7 +2,7 @@
   "name": "smooth-div-scroll",
   "version": "1.3.0",
   "description": "jQuery smooth div scroll",
-  "main": "js/jquery.smoothdivscroll-1.3.min.js",
+  "main": "js/jquery.smoothdivscroll-1.3-min.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
