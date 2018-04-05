@@ -24,6 +24,7 @@
   "homepage": "https://github.com/Vince-F/Smooth-Div-Scroll#readme",
   "dependencies": {
     "jquery-mousewheel": "^3.1.4",
-    "jquery-ui": "^1.12.1"
+    "jquery-ui": "^1.12.1",
+    "jquery.kinetic": "github:davetayls/jquery.kinetic#1.8.2"
   }
 }
