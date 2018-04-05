@@ -7,3 +7,4 @@ ehthumbs.db
 Thumbs.db
 testpage.html
 DebugNotes.txt
+node_modules/**/*
